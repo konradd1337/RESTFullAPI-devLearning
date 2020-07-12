@@ -1,0 +1,14 @@
+{
+  "name": "lg",
+  "version": "1.0.0",
+  "description": "first init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DROKON",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.10.2"
+  }
+}
