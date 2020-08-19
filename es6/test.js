@@ -3,7 +3,7 @@
 // средство еs6: блок "левых" объявлений
 const sents = [
 	{subject: 'JavaScript', verb: 'is', object: 'great'},
-	{subject: 'Elephants', verb: 'are', object: 'large'},
+	{subject: 'Elephants1', verb: 'are', object: 'large'},
 ];
 // средство еs б: строки шаблона
 function say({subject, verb, object}) {
